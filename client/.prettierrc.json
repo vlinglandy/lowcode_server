@@ -1,9 +1,0 @@
-{
-    "semi": false,
-    "eslintIntegration": true,
-    "singleQuote": true,
-    "endOfLine": "auto",
-    "tabWidth": 2,
-    "trailingComma": "none",
-    "bracketSpacing": true
-}
